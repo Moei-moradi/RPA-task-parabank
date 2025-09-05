@@ -1,0 +1,6 @@
+First Name,Last Name,Address,City,State,Zip Code,Phone Number,SSN,Username,Password,Account Type,Initial Deposit,,,,,,,,,,,,,,DOB,Debit Card,CVV
+Alice,Smith,123 Maple St,Springfield,IL,62704,2175551234,123-45-6789,alice_smith,SecurePass123!,Checking,500,,,,,,,,,,,,,,1/1/1980,4992 4691 5813 6190,606
+Bob,,456 Oak Ave,Lincoln,NE,68508,4025555678,987-65-4321,bob_user,password,Savings,1000,,,,,,,,,,,,,,2/1/1990,5593 0587 5582 8985,791
+Charlie,Brown,,Denver,CO,80203,3035557890,111-22-3333,charlie_b,Ch@rlie2023,Checking,750,,,,,,,,,,,,,,2000-05-08,6011 4801 2447 3885,813
+Dana,White,789 Pine Rd,Austin,TX,ABCDE,5125552468,222-33-4444,dana_w,DanaSecure!,Savings,1200,,,,,,,,,,,,,,31/02/1987,3736 2046 8688 3634,627
+Eve,Johnson,321 Birch Blvd,Seattle,WA,98101,2065551357,333-44-5555,eve_j,Eve@2023,Checking,,,,,,,,,,,,,,,"May 20, 1950",3749 7252 4917 4193,285
